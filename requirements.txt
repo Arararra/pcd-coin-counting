@@ -1,6 +1,6 @@
-matplotlib
 numpy
-pillow
 opencv-python
+scikit-image
 scikit-learn
-ultralytics
+tqdm
+matplotlib
