@@ -1,6 +1,8 @@
 numpy
-opencv-python
 scikit-image
 scikit-learn
-tqdm
+opencv-python
 matplotlib
+joblib
+jupyter
+ipywidgets
