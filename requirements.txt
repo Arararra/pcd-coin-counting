@@ -1,8 +1,7 @@
+os
+cv2
 numpy
-scikit-image
-scikit-learn
-opencv-python
 matplotlib
-joblib
-jupyter
-ipywidgets
+sklearn
+skimage
+collections
